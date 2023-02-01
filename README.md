@@ -1,2 +1,2 @@
 # 8-bit-CPU
-An 8-bit CPU design in VHDL intended for implementation on a Zybo Z7 FPGA.
+A design for an 8-bit CPU in VHDL completed for a university lab project.
